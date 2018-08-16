@@ -1,0 +1,24 @@
+{
+  "name": "2018-boiler",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rt33/2018-boiler.git"
+  },
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/rt33/2018-boiler/issues"
+  },
+  "homepage": "https://github.com/rt33/2018-boiler#readme",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.22.1",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
+}
